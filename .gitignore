@@ -40,6 +40,5 @@ dist/
 # Arquivos de compilação
 obj/
 bin/
-migrations/
 *.db
 .vs/

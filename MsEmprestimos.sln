@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.7.11903.348 stable
+VisualStudioVersion = 18.7.11903.348
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsEmprestimos", "Template\MsEmprestimos.csproj", "{D6E4D482-5794-53C3-1A5E-9D68F0B775F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsAcervo", "..\MsAcervo\Template\MsAcervo.csproj", "{7E1CBC19-6339-1A06-D899-905F77892F89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsLeitores", "..\MsLeitores\Template\MsLeitores.csproj", "{C3670359-642C-196A-A35A-184A9789BECF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{D6E4D482-5794-53C3-1A5E-9D68F0B775F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6E4D482-5794-53C3-1A5E-9D68F0B775F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6E4D482-5794-53C3-1A5E-9D68F0B775F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E1CBC19-6339-1A06-D899-905F77892F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1CBC19-6339-1A06-D899-905F77892F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1CBC19-6339-1A06-D899-905F77892F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1CBC19-6339-1A06-D899-905F77892F89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3670359-642C-196A-A35A-184A9789BECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3670359-642C-196A-A35A-184A9789BECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3670359-642C-196A-A35A-184A9789BECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3670359-642C-196A-A35A-184A9789BECF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
